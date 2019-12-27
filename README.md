@@ -1,2 +1,2 @@
 # git-github
-This is the time for learning
+This is the good time for learning
